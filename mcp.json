@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "baylani": {
+      "url": "https://ca-api-prod-01.redpebble-485809dd.centralus.azurecontainerapps.io/public/v1/mcp"
+    }
+  }
+}

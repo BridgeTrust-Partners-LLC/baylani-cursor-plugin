@@ -1,0 +1,14 @@
+{
+  "name": "baylani",
+  "displayName": "Baylani",
+  "version": "0.1.0",
+  "description": "Baylani is fintech for grants and restricted funds: it connects to your bank, QuickBooks, or Xero and tracks every dollar against what the funding is for, what it requires, and what needs to happen next.",
+  "author": {
+    "name": "Baylani"
+  },
+  "homepage": "https://baylani.com",
+  "repository": "https://github.com/BridgeTrust-Partners-LLC/baylani-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["baylani", "grants", "restricted-funds", "nonprofit", "fintech", "compliance", "mcp"],
+  "logo": "assets/logo.png"
+}
